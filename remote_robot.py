@@ -41,7 +41,7 @@ directory_path = '/home/pi/Dexter/GoPiGo3/Projects/RemoteCameraRobot/static'
 
 MAX_FORCE = 5.0
 MIN_SPEED = 100
-MAX_SPEED = 300
+MAX_SPEED = 750
 try:
     gopigo3_robot = EasyGoPiGo3()
 except IOError:
