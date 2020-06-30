@@ -11,7 +11,7 @@ import logging
 from time import sleep
 
 # check if it's ran with Python3
-assert sys.version_info[0:1] == (3,)
+assert sys.version_info[0:1] == (3)
 
 # imports needed for web server
 from flask import Flask, jsonify, render_template, request, Response, send_from_directory, url_for
