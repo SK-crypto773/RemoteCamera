@@ -3,7 +3,7 @@
 # Remotely view your robot as first person in your browser.
 #
 # You MUST run this with python3
-# To Run:  python3 flask_server.py
+# To Run:  python3 remote_robot.py
 
 import signal
 import sys
